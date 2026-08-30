@@ -1,0 +1,10 @@
+# Device/session-specific Obsidian state — must not be shared between devices
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/command-palette.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
